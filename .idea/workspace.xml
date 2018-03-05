@@ -7,164 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7b44a84-d93b-4b2d-a5b3-abdfdd8e3e76" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/AvantisHomepage_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_27.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_4_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_codeborne_selenide_4_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_config_1_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dnsjava_dnsjava_2_1_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_1_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_0_51_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_lightbody_bmp_browsermob_core_2_1_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_lightbody_bmp_littleproxy_1_1_0_beta_bmp_17.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_lightbody_bmp_mitm_2_1_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_20.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_58.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_58.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_18_v20160721.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_18_v20160721.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_18_v20160721.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_18_v20160721.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_18_v20160721.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_10_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_rauschig_jarchivelib_0_7_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_8_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_8_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_8_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_8_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_8_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_8_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_8_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_8_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_8_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_24.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AvantisHomepage.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AvantisHomepage/AvantisHomepage.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/AvantisHomepage/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SailTests.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520086268246.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520086268246.0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520089193157.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520089193157.0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520167560181.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520167560181.0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520167776624.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520167776624.0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520167998097.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520167998097.0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520168397281.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520168397281.0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520181365812.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520181365812.0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520184577169.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520184681506.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520184771001.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520185234439.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520185312158.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520185769076.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520186156212.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520186156212.0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520186745171.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520186745171.0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520186881989.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520186881989.0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520187299166.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520187299166.0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520187571503.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520187571503.0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520187752178.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520187752178.0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520187801924.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520187801924.0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520188223652.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520188223652.0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520189891393.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520189891393.0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520190099682.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520190099682.0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520198592638.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520198592638.0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520250570638.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520250570638.0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520250608996.1.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520250608996.1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520254179146.0.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/1520254179146.0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/HomePage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/MainRun.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/Command line suite/Command line test.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/Command line suite/Command line test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/Command line suite/testng-failed.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/bullet_point.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/collapseall.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/failed.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-Main.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Command line suite/Command line test.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Command line suite/classes.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Command line suite/groups.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Command line suite/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Command line suite/main.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Command line suite/methods-alphabetical.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Command line suite/methods-not-run.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Command line suite/methods.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Command line suite/reporter-output.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Command line suite/testng.xml.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/old/Command line suite/toc.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/old/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/passed.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/skipped.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/testng-reports.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/testng-reports.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/testng.css" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -190,7 +33,7 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="15">
               <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
@@ -200,7 +43,7 @@
       <file leaf-file-name="MainRun.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/MainRun.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="120">
               <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -212,7 +55,7 @@
       <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="30">
               <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -297,7 +140,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AvantisHomepage" type="58d84e3e:PackageViewProjectNode" />
+              <item name="AvantisHomepage" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -408,18 +261,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="AvantisHomepage" type="58d84e3e:PackageViewProjectNode" />
-              <item name="AvantisHomepage" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -746,7 +589,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963988" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27969924" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28345865" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962406" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962406" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -839,6 +682,34 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/MainRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -897,7 +768,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -941,7 +811,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -985,7 +854,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1029,7 +897,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1073,7 +940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1169,7 +1035,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Utils.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="30">
           <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1188,7 +1054,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1196,7 +1061,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="78" column="8" lean-forward="false" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1212,13 +1076,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MainRun.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="120">
           <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1228,7 +1091,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="15">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
